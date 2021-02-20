@@ -14,3 +14,7 @@ a life bar.
 The project is completed with full bonuses, NO LEAKS, NO undefined behavior, graded 115.
 
 A very big project that take us busy for about 2 + 1/2 weeks, but very funny.
+
+
+if you need info about the minilibx there's some useful link that help us a lot in the initial part of the project
+https://harm-smits.github.io/42docs/
