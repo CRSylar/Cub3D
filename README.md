@@ -1,6 +1,9 @@
 # Cub3D
 
-My Cub3D project for 42 Rome Luiss.
+My Cub3D project for 42 Rome.
+
+![Cromalde's 42Project Score](https://badge42.herokuapp.com/api/project/cromalde/cub3d)
+
 This is our first dive in graphic project, we have to recode the famous Wolf3d pc game from the '80s.
 The mandatory part just involves "simple" job like writing a raycaster engine that will cast a maze in witch a player can move,
 with different wall textures for the 4th coordinate, a simple color for floor and ceiling and the ability to move inside the maze,
